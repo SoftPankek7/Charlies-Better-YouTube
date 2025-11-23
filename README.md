@@ -37,6 +37,7 @@ It comes as 3 different ways - ***Bookmarklet, User script,*** and ***Extension*
 - **If you want to use it through TamperMonkey**, go to releases (or the ```userscript.js``` file) and copy the contents onto a blank user script.
 
 - **If you want to use it as an extension**, you have 2 options:
+  
   a) Adding it via the ``.pem``  and ``.crx`` file (which doesnt work for me)
 
   b) Adding it via ``Unpacked Install``:
