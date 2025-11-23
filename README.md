@@ -22,6 +22,14 @@ I actually use these on my main computers (through TamperMonkey)
 That is ``11`` TWEAKS! ***WOW***.
 
 ---
+
+### Known Issues:
+
+1. The chip bar is waaaay too big. I tried fixing that, to no avail. Any fixes would be great.
+
+That is it.
+
+---
 ### How to install
 
 It comes as 3 different ways - ***Bookmarklet, User script,*** and ***Extension***
